@@ -30,7 +30,8 @@ public class prakperulangan {
           System.out.print(" * ");
       }
     }
-
+      
+    sc.close();
   }
   
 }
